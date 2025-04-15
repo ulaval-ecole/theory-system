@@ -1,0 +1,6 @@
+1) Qui utilise les processus
+2) Qui creer les systemes d'exploitation
+3) Qui regle la concurrence
+4) Qui s'occupe de l'ordonnancement
+5) Qui regle les interblocages
+6) Qui utilise les I
