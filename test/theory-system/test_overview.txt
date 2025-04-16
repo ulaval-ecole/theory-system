@@ -1,6 +1,16 @@
 1) Qui utilise les processus
+	assert result == ["Developpeur d'application"]
 2) Qui creer les systemes d'exploitation
+	assert result == ["Les developpeurs noyau", "Les developpeurs UI", "Les developpeurs d'outils systeme"]
 3) Qui regle la concurrence
+	assert result == ["Developpeur qui a besoin de paralelisme"]
 4) Qui s'occupe de l'ordonnancement
+	assert result == ["Developpeur en deboggage de performance"] 
 5) Qui regle les interblocages
-6) Qui utilise les I
+	assert result == ["Developpeur qui a besoin de parallelisme"]
+6) Qui utlise la gestion la memoire
+	assert result == ["Les developpeurs d'application"]
+7) Qui utilise la gestion de fichiers
+	assert result ==  ["Les developpeurs d'application"]
+8) Qui utilise l'interface graphique d'un SE
+ 	assert result == ["Utlisateur d'un SE"]
